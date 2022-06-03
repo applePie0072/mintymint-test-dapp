@@ -1,0 +1,22 @@
+{
+  "name": "truffle-market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "ethers": "^5.6.8",
+    "truffle-contract": "^4.0.31"
+  }
+}

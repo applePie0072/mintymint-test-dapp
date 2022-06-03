@@ -1,0 +1,12 @@
+export const NFTContracts = [
+  '0x21A324498447c54eEaF7CBe21E370a5362927DD9',
+  '0xD466eD337f90efaE4357Ee3596D45b5DD4cD3c17',
+  '0x20073c68F6a1007428F34176CA50dF43BF522b1A',
+];
+
+export const USDC = {
+  address: '0x692e8E033Fd2084B6590df3722C849C3ee69EF2f',
+  decimals: 18,
+};
+
+export const marketplaceAddress = '0x5873eE991A8CFc22000115255DeF4021F8EEa138';
